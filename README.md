@@ -14,7 +14,7 @@ How to:
 - Use GitHub secrets to store AWS credentials securely
 
 
-## 🛠️ Technologies Used
+ Technologies Used
 
 - **React** – For the frontend form
 - **GitHub Actions** – To automate builds and deployment
